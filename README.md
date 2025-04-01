@@ -18,3 +18,5 @@ powdery mildew|948|236
 rust|1200|300
 scab|1200|300
 healthy|1200|300
+
+### After being accepted, model training results can be made publicly available~~~
